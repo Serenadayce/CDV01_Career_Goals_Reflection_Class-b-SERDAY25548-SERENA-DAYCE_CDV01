@@ -16,28 +16,41 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:Serena Dayce
+- **Date:16/10/25
+- **Current Role/Position:Codespace student
+- **Field of Interest:Full stack developer
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
-    
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    -Leadership
+    -Good communication skills
+    -Self motivated
+   - Fast learner
+
+    Skills i want to improve
+    -Time management
+    -Self awareness 
+    -Goal setting
+    -Resilience
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - In my free time i love challenging myself in difficult tasks
+    - Respect,teamwork and communication goes a long way in a work enviroment
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - App developing
+    -Web developing 
+    -Software engineering 
+    -Mobile application developing
+    -Machine learning
+    -Full stack developer
+
+    Out of all the above mentioned becoming a full stack developer is my main goal to achieve in life.
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
@@ -47,34 +60,26 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - In the next 1-2 years i want to grow in developing,i chose this career path not just cause of passion but also to become financially stable to support myself and those close to me
+    
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - I want to achieve a masters degree in full stack developing,want to work my way up to maybe owning my own company.With hard work and dedication nothing is impossible and im a hard and passionate worker.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - I am currently heading towards that goal ,im studying for a software developer at codespace when ive completed this will let my foot be in the door after codespace i would like to study further in the  field on university
 2. **Preparation for Long-term Goals**:
-    
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    -I atleast have to do 4 years on varsity,im ginna have to join a program but most importantly i will have the knowledge of developing .
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
-    
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    -I think the biggest prblem will be finances but will check for funding programs
 2. **Opportunities for Growth**:
-    
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    -Social media 
 
 ### Submission
 
